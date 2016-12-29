@@ -8,5 +8,8 @@ population <- data.frame(
   
 )
 
+attorney1 <- data.frame(factor1 = 1
+                        , factor2 = 0)
+
 #is conflict a binary, or a spectrum?
 # do I have a bin size, or do I have a binomial?
